@@ -3,9 +3,9 @@ package basicJavaPrograms;
 public class Multiplication {
 
 	public static void main(String[] args) {
-		int a=2;
+		int multiply=2;
 		int b=5;
-		int c=a*b;
+		int c=multiply*b;
 		System.out.println(c);
 	}
 
