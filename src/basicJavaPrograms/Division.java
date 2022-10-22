@@ -3,9 +3,9 @@ package basicJavaPrograms;
 public class Division {
 
 	public static void main(String[] args) {
-		int system=20;
+		int system11=20;
 		int b=20;
-		int c =system/b;
+		int c =system11/b;
 		System.out.println(c);
 
 	}
