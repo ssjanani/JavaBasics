@@ -5,15 +5,15 @@ public class AdditionProgram {
 	public static void main(String[] args) {
 
 
-		int addi=10;
+		int addinew=10;
 
 		int b=20;
 
 		
 
 
-		int c =addi+b;
-		System.out.println(addi);
+		int c =addinew+b;
+		System.out.println(addinew);
 
 
 		System.out.println(b);
