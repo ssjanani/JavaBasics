@@ -6,8 +6,8 @@ public class OddEvenProgram {
 
 
 		
-		int data1=16;
-		if (data1%2==0)
+		int data11=16;
+		if (data11%2==0)
 
 
 
