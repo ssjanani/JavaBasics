@@ -2,9 +2,9 @@ package basicJavaPrograms;
 
 public class Subtraction {
 	public static void main(String[] args) {
-		int n=20;
+		int k=20;
 		int b=10;
-		int c =n-b;
+		int c =k-b;
 		System.out.println(c);
 
 	}
