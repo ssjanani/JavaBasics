@@ -3,10 +3,19 @@ package basicJavaPrograms;
 public class AdditionProgram {
 
 	public static void main(String[] args) {
-		int aa=10;
+
+
+		int add1=10;
+
 		int b=20;
-		int c =aa+b;
-		System.out.println(aa);
+
+		
+
+
+		int c =add1+b;
+		System.out.println(add1);
+
+
 		System.out.println(b);
 		System.out.println(c);
 
